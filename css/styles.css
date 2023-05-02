@@ -1,0 +1,120 @@
+body{
+    background-color: #FFFBF5;
+    margin: 0;
+}
+
+hr{
+    width: 60%;
+    border-style: solid;
+    border-color: white;
+    background-color: white;
+}
+.resume-contact{
+    width: 100%;
+    background-color: #F7EFE5;
+    margin-bottom:5px;
+    text-align: center;
+    padding: 10px;
+    height: 200px;
+}
+
+.dp{
+    width: 100px;
+    display: inline-block;
+    margin-top: 20px;
+    margin-right: 10px;
+    
+}
+.intro{
+    height: 120px;
+    width: 240px;
+    background-color: #FFFBF5;
+    display: inline-block;
+    margin-bottom:5px;
+    text-align: center;
+    
+}
+.intro-text{
+    color: #C3ACD0;
+    font-size: 14px;
+    text-align: left;
+    margin-left: 10px;
+}
+.name{
+    color: #674188;
+}
+
+.education{
+    padding: 10px;
+    text-align: center;
+    height: 250px;
+    width: 100%;
+    background-color: #F7EFE5;
+    margin-bottom:5px;
+}
+.edu1{
+    background-color: #FFFBF5;
+    display: inline-block;
+    width: 30%;
+    height: 200px;
+    padding: 2px;
+    margin-bottom:5px;
+    text-align: center;
+}
+
+.skills{
+    padding: 10px;
+    text-align: center;
+    height: 30%;
+    width: 100%;
+    background-color: #F7EFE5;
+    margin-bottom:5px;
+}
+
+.shelfdiv{
+    margin: auto;
+    padding-top: 10%;
+    position: relative;
+    height: 60%;
+    width: 70%;
+    background-color: #F7EFE5;
+    margin-bottom:5px;
+}
+
+.py{
+    position: absolute;
+    top: 8%;
+    left: 10%;
+    color: #674188;
+}
+
+.cc{
+    position: absolute;
+    top: 40%;
+    left: 10%;
+    color: #674188;
+}
+.emb{
+    position: absolute;
+    top: 8%;
+    right: 10%;
+    color: #674188;
+}
+.wd{
+    position: absolute;
+    top: 40%;
+    right: 10%;
+    color: #674188;
+}
+.ml{
+    position: absolute;
+    bottom: 20%;
+    left: 10%;
+    color: #674188;
+}
+.c{
+    position: absolute;
+    bottom: 20%;
+    right: 10%;
+    color: #674188;
+}
